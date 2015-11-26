@@ -5,6 +5,9 @@
         + DAM
         + DAS
         + DBF
+    + Protocolos
+        + Descripcion
+        + Tipo de protocolo (Cifrado de Datos, Acceso, ...)
     
 > Yeray Pérez Peraza (alu0100783612@ull.edu.es)
     
@@ -12,12 +15,6 @@
     + Medidas de Seguridad
         + Lógicas
         + Físicas
-
-> Ángel Rodriguez Negrin (alu0100782974@ull.edu.es)
-
     + Ambitos de uso
         + Aplicaciones (Donde se usan)
         + Ejemplos de uso
-    + Protocolos
-        + Descripcion
-        + Tipo de protocolo (Cifrado de Datos, Acceso, ...)

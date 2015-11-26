@@ -15,8 +15,6 @@
 
 > Yeray Pérez Peraza (alu0100783612@ull.edu.es)
 
-> Ángel Rodriguez Negrin (alu0100782974@ull.edu.es)
-
 ---
 #### *Descripción*
 
