@@ -14,15 +14,15 @@ Para ello crearemos perfiles de usuarios en los que cada grupo de usuarios tiene
 
 Las vistas de las bases de datos son muy importantes puesto que delimitamos el contenido que se muestra de la base de datos a ciertos usuarios.
 
-Una parte importante de la seguridas logica de las bases de datos es la de permitir realizarle auditorias a las bases de datos para ver que datos contiene y de que forma los contine.
+Una parte importante de la seguridas logica de las bases de datos es la de permitir realizar auditorias a las bases de datos para ver que datos contiene y de que forma los contine.
 
-Y para el final dejamos la mas importante de las medidas logicas la prevencion de la inyección sql, que basicamente consiste en modificar las consultas sql que se realizan a la bases de datos para obtener que no deberian ser publica. Para evitar estas introduciones podemos aplicar 4 sencillos pasos: 
+Finalmente dejamos la mas importante de las medidas logicas, la prevencion de la inyección sql, que basicamente consiste en modificar las consultas sql que se realizan a la bases de datos para obtener información que no debería ser publica. Para evitar estas intruciones aplicaremos 4 sencillos pasos: 
 
 
-- Asignación de privilegios mínimos, debe tener los privilegios necesarios, ni mas ni menos.
-- Validar los datos introducidos, especifique el tipo de dato de entrada, si son números,asegúrese de que son solo números.
+- Asignación de privilegios mínimos: debe tener los privilegios necesarios.
+- Validar los datos introducidos: especifique el tipo de dato de entrada, si son números,asegúrese de que son solo números.
 - Utilizar procedimientos almacenados y aceptar los datos del usuario como parámetros en lugar de comandos sql.
-- Usar comillas dobles en lugar de simples
+- Usar comillas dobles en lugar de simples.
 
 
  
